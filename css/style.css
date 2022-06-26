@@ -3,3 +3,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Generale */
+
+body {
+    font-family: 'Mukta', sans-serif;
+    background-color: #eff2ef;
+}
+
+/* Header */
+
+nav li {
+    list-style: none;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+/* Debug */
+
+nav {
+    background-color: red;
+}
